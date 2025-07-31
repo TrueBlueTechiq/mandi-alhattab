@@ -51,9 +51,9 @@ const translations: Translations = {
     halfHanithChicken: 'نصف دجاجة حنيذ',
     pakistaniChicken: 'دجاج باكستاني',
     halfPakistaniChicken: 'نصف دجاجة باكستاني',
-    mathabiChicken: 'دجاج مثابي',
-    mathabiRib: 'ضلع مثابي',
-    mathabiMeat: 'لحم مثابي',
+    mathabiChicken: 'دجاج مضبي',
+    mathabiRib: 'ضلع مضبي',
+    mathabiMeat: 'لحم مضبي',
     // Appetizers
     tabsi: 'تبسي',
     tabsiDesc: 'تبسي سوزار برژاو',
