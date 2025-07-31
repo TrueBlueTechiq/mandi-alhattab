@@ -85,7 +85,7 @@ const translations: Translations = {
     mandiShoulderQoziChicken: 'كتف مندي + قوزي + دجاج',
     mandiRibChicken: 'ضلع مندي + دجاج',
     mandiChickenShoulder: 'مندي دجاج + كتف',
-    halfMandiChickenHalfMathabiChickenHalfMadfoonChicken: 'نصف مندي دجاج + نصف مثابي دجاج + نصف مدفون دجاج',
+    halfMandiChickenHalfMathabiChickenHalfMadfoonChicken: 'نصف مندي دجاج + نصف مضبي دجاج + نصف مدفون دجاج',
     halfMandiChickenMandiMeat: 'نصف مندي دجاج + لحم مندي',
     extraRice: 'أرز إضافي',
     madfoonChicken: 'دجاج مدفون',
