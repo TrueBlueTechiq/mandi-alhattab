@@ -75,7 +75,7 @@ const translations: Translations = {
     waterDesc: 'ئاوی بەتاڵکراو',
     'soft drinks': 'مشروبات غازية ',
     'soft drinksDesc': 'مشروبات غازية',
-    halfMathabiChicken: 'نصف دجاجة مثابي',
+    halfMathabiChicken: 'نصف دجاجة مضبي',
     madfoonMeat: 'لحم مدفون',
     makboosMeat: 'لحم مكبوس',
     makboosChicken: 'دجاج مكبوس',
